@@ -1,0 +1,7 @@
+.backgroundTest{
+    /* width: 700px; */
+    height: 800px;
+    background-image: url(images/person.png);
+    background-size: 500px;
+    background-repeat:repeat-x;
+}
